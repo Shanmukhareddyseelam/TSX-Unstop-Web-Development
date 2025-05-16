@@ -1,4 +1,3 @@
-# TSX-Unstop-Web-Development
 Tasks: 
 1. Create an HTML file with a heading and a paragraph. 
 2. Create a separate CSS file to style the heading with a different 
